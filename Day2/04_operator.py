@@ -3,8 +3,9 @@
 """
 
 if __name__ == '__main__':
-	def main():
-		pass
+    def main():
+        a = True
+        a or print("1")
 
 
-	main()
+    main()
