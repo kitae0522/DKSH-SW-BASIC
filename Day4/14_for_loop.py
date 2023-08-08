@@ -11,11 +11,13 @@ range(10, 36, 5) -> 10, 15, 20, 25, 30, 35
 """
 
 if __name__ == '__main__':
-	def main():
-		for char in "Hello World!":
-		    print(char)
-		for item in [1, 2, 3, 4]:
-			print(item)
-		for idx in range(10):
-			print(idx)
-	main()
+    def main():
+        for char in "Hello World!":
+            print(char)
+        for item in [1, 2, 3, 4]:
+            print(item)
+        for idx in range(10):
+            print(idx)
+
+
+    main()
