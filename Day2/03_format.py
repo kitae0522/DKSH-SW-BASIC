@@ -18,8 +18,8 @@ print(f"저의 이름은 {my_name}이고, 아버지 성함은 {dad_name}, 어머
 """
 
 if __name__ == '__main__':
-	def main():
-		pass
+    def main():
+        pass
 
 
-	main()
+    main()

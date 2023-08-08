@@ -17,4 +17,6 @@ if __name__ == '__main__':
         {new_team}의 감독은 "{new_team}에 {player_name}이 합류하여 기쁘다. 팬들의 기대를 받아 이번 시즌 우승을 노려보겠다."라고 했습니다.
         """)
         print("=" * 20)
+
+
     main()
