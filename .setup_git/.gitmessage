@@ -1,0 +1,29 @@
+# <type>: <subject>
+##### Subject 50 characters ################# -> |
+
+
+# Body Message
+######## Body 72 characters ####################################### -> |
+
+# Issue Tracker Number or URL
+
+# --- COMMIT END ---
+# Type can be
+#   FEAT    : new feature
+#   FIX     : bug fix
+#   REFACTOR: refactoring production code
+#   STYLE   : formatting, missing semi colons, etc; no code change
+#   DOCS    : changes to documentation
+#   TEST    : adding or refactoring tests
+#             no productin code change
+#   CHORE   : updating grunt tasks etc
+#             no production code change
+# ------------------
+# Commit rules:
+#   Capitalize the subject line
+#   Use the imperative mood in the subject line
+#   Do not end the subject line with a period
+#   Separate subject from body with a blank line
+#   Use the body to explain what and why vs. how
+#   Can use multiple lines with "-" for bullet points in body
+# ------------------

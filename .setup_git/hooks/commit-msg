@@ -1,0 +1,4 @@
+#!/bin/sh
+
+exec < /dev/tty
+./.git/hooks/verify_commit_msg.py $1
